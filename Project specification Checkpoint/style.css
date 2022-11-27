@@ -1,0 +1,8 @@
+#carouselExampleControls{
+    width: 50%;
+    margin: 10%;
+}
+.carousel-item img{
+    width: 10%;
+    height: auto;
+}
